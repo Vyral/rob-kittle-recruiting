@@ -26,7 +26,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-admin
-#  - jekyll-seo-tag
 
 # Excludes
 exclude:
