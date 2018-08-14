@@ -20,7 +20,7 @@ highlighter: rouge
 paginate: 6
 permalink: none
 
-plugins:
+gems:
   - jemoji
   - octopress-autoprefixer
   - jekyll-paginate
